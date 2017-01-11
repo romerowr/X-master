@@ -1,0 +1,16 @@
+{
+	"dbconf":{
+		"driver":"",
+		"dbname":"",
+		"dbhost":"",
+		"dbuser":"",
+		"dbpass":""
+	},
+	"app":{
+		"version":"1.0",
+		"title":"XFramework"
+	}
+}
+
+//arxiu de configuracio de la configuracio del framework,
+//es troben les dades dels hosts, users y les seves passwd
